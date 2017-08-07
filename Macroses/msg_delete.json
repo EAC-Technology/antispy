@@ -1,0 +1,12 @@
+{
+    "ob_board": "0", 
+    "timer_guid": "44edef2c-8f2d-4e4f-8dee-279a189262c5", 
+    "name": "msg_delete", 
+    "custom_event_guid": "", 
+    "class_name": "VEE_TimerEvent", 
+    "is_button": "0", 
+    "guid": "9c6bd9ad-7bed-41b0-86b6-8400fbfc5f8b", 
+    "type": "event", 
+    "page": "", 
+    "description": "Remove msg from database"
+}

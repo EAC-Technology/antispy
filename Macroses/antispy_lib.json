@@ -1,0 +1,12 @@
+{
+    "ob_board": "0", 
+    "timer_guid": "", 
+    "name": "antispy_lib", 
+    "custom_event_guid": "", 
+    "class_name": "", 
+    "is_button": "0", 
+    "guid": "4bef2d42-934d-4bd3-bf2a-0b1a51244d6d", 
+    "type": "library", 
+    "page": "", 
+    "description": "Functions and procedures"
+}

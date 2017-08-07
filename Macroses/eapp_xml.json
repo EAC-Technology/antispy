@@ -1,0 +1,12 @@
+{
+    "ob_board": "0", 
+    "timer_guid": "", 
+    "name": "eapp_xml", 
+    "custom_event_guid": "", 
+    "class_name": "", 
+    "is_button": "0", 
+    "guid": "9ca37f70-482b-422c-b380-29f8d978acca", 
+    "type": "library", 
+    "page": "", 
+    "description": "VDOM XML templates"
+}

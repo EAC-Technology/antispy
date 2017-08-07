@@ -1,0 +1,12 @@
+{
+    "ob_board": "0", 
+    "timer_guid": "", 
+    "name": "send_macro", 
+    "custom_event_guid": "c2129e58-77b8-4e61-849e-361ec43fa24d", 
+    "class_name": "VEE_CustomEvent", 
+    "is_button": "0", 
+    "guid": "1e52bae9-ed0f-496a-a825-0a215837e3b1", 
+    "type": "event", 
+    "page": "", 
+    "description": ""
+}

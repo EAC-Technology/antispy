@@ -1,0 +1,12 @@
+{
+    "ob_board": "1", 
+    "timer_guid": "", 
+    "name": "config", 
+    "custom_event_guid": "None", 
+    "class_name": "", 
+    "is_button": "1", 
+    "guid": "9e952cc0-9beb-4a8b-99d2-5b7fe79cc684", 
+    "type": "button", 
+    "page": "None", 
+    "description": "config macro"
+}
